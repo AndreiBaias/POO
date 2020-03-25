@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1585139308 source:c:\users\jamaica\desktop\facultate\poo\tema1\main.cpp
+	<iostream>
+	"Fractie.h"
+
+1585139394 source:c:\users\jamaica\desktop\facultate\poo\tema1\src\fractie.cpp
+	"Fractie.h"
+	<iostream>
+	<vector>
+
+1585136808 c:\users\jamaica\desktop\facultate\poo\tema1\include\fractie.h
+	<iostream>
+
