@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1587566526 source:c:\users\jamaica\desktop\facultate\poo\tema2\main.cpp
+	<iostream>
+	"Vector.h"
+	"Nr_Natural_Mare.h"
+	"Numar_Intreg_mare.h"
+
+1587497398 source:c:\users\jamaica\desktop\facultate\poo\tema2\src\vector.cpp
+	"Vector.h"
+
+1587566486 c:\users\jamaica\desktop\facultate\poo\tema2\include\vector.h
+	<iostream>
+
+1587488814 source:c:\users\jamaica\desktop\facultate\poo\tema2\src\nr_natural_mare.cpp
+	"Nr_Natural_Mare.h"
+
+1587566500 c:\users\jamaica\desktop\facultate\poo\tema2\include\nr_natural_mare.h
+	<iostream>
+	<cstring>
+	"Vector.h"
+
+1587567859 source:c:\users\jamaica\desktop\facultate\poo\tema2\src\numar_intreg_mare.cpp
+	"Numar_Intreg_mare.h"
+
+1587566187 c:\users\jamaica\desktop\facultate\poo\tema2\include\numar_intreg_mare.h
+	<Nr_Natural_Mare.h>
+	<iostream>
+	<cstring>
+
+1587488814 source:c:\users\andreea forbes\desktop\deea\facultate\tema2\src\nr_natural_mare.cpp
+	"Nr_Natural_Mare.h"
+
+1587566500 c:\users\andreea forbes\desktop\deea\facultate\tema2\include\nr_natural_mare.h
+	<iostream>
+	<cstring>
+	"Vector.h"
+
+1587566486 c:\users\andreea forbes\desktop\deea\facultate\tema2\include\vector.h
+	<iostream>
+
+1587497398 source:c:\users\andreea forbes\desktop\deea\facultate\tema2\src\vector.cpp
+	"Vector.h"
+
+1587589102 source:c:\users\andreea forbes\desktop\deea\facultate\tema2\main.cpp
+	<iostream>
+	"Vector.h"
+	"Nr_Natural_Mare.h"
+	"Numar_Intreg_mare.h"
+	<vector>
+
+1587588113 c:\users\andreea forbes\desktop\deea\facultate\tema2\include\numar_intreg_mare.h
+	<Nr_Natural_Mare.h>
+	<iostream>
+	<cstring>
+
+1587588618 source:c:\users\andreea forbes\desktop\deea\facultate\tema2\src\numar_intreg_mare.cpp
+	"Numar_Intreg_mare.h"
+
+1587590925 source:c:\users\jamaica\desktop\tema2\main.cpp
+	<iostream>
+	"Vector.h"
+	"Nr_Natural_Mare.h"
+	"Numar_Intreg_mare.h"
+	<vector>
+
+1587566486 c:\users\jamaica\desktop\tema2\include\vector.h
+	<iostream>
+
+1587566500 c:\users\jamaica\desktop\tema2\include\nr_natural_mare.h
+	<iostream>
+	<cstring>
+	"Vector.h"
+
+1587590429 c:\users\jamaica\desktop\tema2\include\numar_intreg_mare.h
+	<Nr_Natural_Mare.h>
+	<iostream>
+	<cstring>
+
+1587488814 source:c:\users\jamaica\desktop\tema2\src\nr_natural_mare.cpp
+	"Nr_Natural_Mare.h"
+
+1587590429 source:c:\users\jamaica\desktop\tema2\src\numar_intreg_mare.cpp
+	"Numar_Intreg_mare.h"
+
+1587497398 source:c:\users\jamaica\desktop\tema2\src\vector.cpp
+	"Vector.h"
+
